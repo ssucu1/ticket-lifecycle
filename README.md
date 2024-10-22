@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,26 +24,46 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+
+<h2>Lifecycle Stages</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Create the following ticket
+  entire mobile/online banking system is down
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/f43ab93a-f0bd-4e7b-8ee1-a6fe17ffdf2c)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Assignment and Communication: As a Help Desk (John), observe the Ticket's properties
+  -Priority 
+  -Department 
+  -SLA 
+  Assigned to
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/4efc30bb-9581-43fc-860e-5eb58f258939)
+![image](https://github.com/user-attachments/assets/c56d63ba-98b9-4f66-bf41-3d604320a50a)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resoltution: Set properties to the ticket
+  -Sev-B (4 hours, 24/7)
+  -Support
 </p>
 <br />
+
+![image](https://github.com/user-attachments/assets/8c00fdad-f7da-41f5-9e6a-d80645803419)
+
+![image](https://github.com/user-attachments/assets/e9e843f9-1e76-4ace-82a0-8970cd3e7348)
+
+
+
+
+
