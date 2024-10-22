@@ -51,8 +51,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/4efc30bb-9581-43fc-860e-5eb58f258939)
-![image](https://github.com/user-attachments/assets/c56d63ba-98b9-4f66-bf41-3d604320a50a)
+![image](https://github.com/user-attachments/assets/bf34a5ea-19af-4738-bd89-992b398e59a8)
+![image](https://github.com/user-attachments/assets/9adf90d1-9f7c-4807-ab28-95afb09f5773)
+
 
 <p>
 Resoltution: Set properties to the ticket
@@ -61,9 +62,9 @@ Resoltution: Set properties to the ticket
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/8c00fdad-f7da-41f5-9e6a-d80645803419)
+![image](https://github.com/user-attachments/assets/24e12d3e-0647-45ed-979b-8cf9671fb333)
 
-![image](https://github.com/user-attachments/assets/e9e843f9-1e76-4ace-82a0-8970cd3e7348)
+![image](https://github.com/user-attachments/assets/992ec058-7851-4499-9c21-ddbbeff72e2e)
 
 
 
