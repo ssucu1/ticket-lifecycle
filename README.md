@@ -37,7 +37,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/f43ab93a-f0bd-4e7b-8ee1-a6fe17ffdf2c)
+![Capturetick1](https://github.com/user-attachments/assets/2d631372-4daf-415e-b317-05805d4b6ea4)
+
+
 
 
 <p>
